@@ -9,7 +9,7 @@ public class InfinitreArray {
         System.out.println(ans(arr, target));
     }
 
-    static int ans(int arr[], int target) {
+    static int ans(int[] arr, int target) {
         int start = 0;
         int end = 0;
 
