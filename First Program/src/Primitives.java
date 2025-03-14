@@ -2,6 +2,7 @@ public class Primitives {
     public static void main(String[] args) {
 //        Primitive Data Types
 //        Primitive Data Types are those data types that cannot be broken down into further data types
+//        The data types that are listed down are the various types of available primitive data types
         int rollno = 24;
         char letter = 'd';
         float marks = 99.9f;
