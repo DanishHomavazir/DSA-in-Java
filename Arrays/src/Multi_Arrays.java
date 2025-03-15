@@ -6,7 +6,7 @@ public class Multi_Arrays {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
 
-        int arr[][] = new int[3][3];//creating a 2D array
+        int[][] arr = new int[3][3];//creating a 2D array
 
         //taking input in the array
         for (int row = 0; row < arr.length; row++) {
