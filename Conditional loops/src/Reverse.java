@@ -1,4 +1,4 @@
-//Program to print the reverse of a given number
+//Program to print the reverse of a given number taken directly in the input
 public class Reverse {
     public static void main(String[] args) {
         int num = 476638;
