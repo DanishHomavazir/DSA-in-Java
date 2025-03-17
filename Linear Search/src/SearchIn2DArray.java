@@ -30,9 +30,9 @@ public class SearchIn2DArray {
     static int max(int[][]arr){
         int max = Integer.MIN_VALUE;
         for (int[] ints : arr) {
-            for (int col = 0; col < ints.length; col++) {
-                if (ints[col] > max) {
-                    max = ints[col];
+            for (int anInt : ints) {
+                if (anInt > max) {
+                    max = anInt;
                 }
             }
         }
