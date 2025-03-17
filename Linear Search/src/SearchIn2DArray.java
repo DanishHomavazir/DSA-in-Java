@@ -29,10 +29,10 @@ public class SearchIn2DArray {
     //to find the maximum value in a 2D array
     static int max(int[][]arr){
         int max = Integer.MIN_VALUE;
-        for(int row=0; row< arr.length;row++){
-            for(int col = 0; col<arr[row].length; col++){
-                if(arr[row][col]  > max){
-                    max = arr[row][col];
+        for (int[] ints : arr) {
+            for (int col = 0; col < ints.length; col++) {
+                if (ints[col] > max) {
+                    max = ints[col];
                 }
             }
         }
