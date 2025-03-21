@@ -9,7 +9,7 @@ public class CountNoOfRotations {
         return pivot + 1;
     }
 
-    // use this for non duplicates
+    // use this for array containing non duplicates values
     static int findPivot(int[] arr) {
         int start = 0;
         int end = arr.length - 1;
@@ -31,7 +31,7 @@ public class CountNoOfRotations {
         return -1;
     }
 
-    // use this when arr contains duplicates
+    // use this when array contains duplicates values
     static int findPivotWithDuplicates(int[] arr) {
         int start = 0;
         int end = arr.length - 1;
