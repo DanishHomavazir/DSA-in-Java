@@ -6,7 +6,7 @@ public class FloorOfNum {
         System.out.println("The floor of the required num is found at index: "+ans);
     }
 
-    //this method will return the value of the index
+    //this method will return the index value
     //floor of a num means finding the greatest number that is smaller than or equal to the target element
     static int floor(int[] arr, int target) {
         int start = 0;
