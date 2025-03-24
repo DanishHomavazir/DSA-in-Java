@@ -25,7 +25,7 @@ public class SearchInMatrix{
             if(matrix[r][c] < target){
                 r++; // moving to the next row directly if the target element is greater than the current element
             }else{
-                c--;
+                c--; //moving to the previous column directly if the target element is less than the current element
             }
         }
         return new int[]{-1,-1};
