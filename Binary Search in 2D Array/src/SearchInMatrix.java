@@ -23,7 +23,7 @@ public class SearchInMatrix{
             }
 
             if(matrix[r][c] < target){
-                r++;
+                r++; // moving to the next row directly if the target element is greater than the current element
             }else{
                 c--;
             }
