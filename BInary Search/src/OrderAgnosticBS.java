@@ -1,5 +1,6 @@
 //The order agnostic binary search is a type of binary search in which we first check the order of sorting and accordingly apply the binary search algorithm on it.
 //By order of sorting we mean whether it is sorted in the ascending or descending order
+
 public class OrderAgnosticBS {
     public static void main(String[] args) {
 //        for ascending order search
