@@ -4,6 +4,7 @@ import java.util.Arrays;
 
 public class SearchInMatrix{
     public static void main(String[] args) {
+//        here we can input any given matrix we want but here it is sorted in ascending order both row and column wise
         int[][] matrix = {
                 {10, 20, 30, 40},
                 {15, 25, 35, 45},
