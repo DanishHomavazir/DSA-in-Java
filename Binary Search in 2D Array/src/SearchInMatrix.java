@@ -1,3 +1,5 @@
+//This method searches the required target element in a 2D matrix
+
 import java.util.Arrays;
 
 public class SearchInMatrix{
