@@ -1,3 +1,5 @@
+//ceiling of a num means finding the smallest number that is greater than or equal to the target element
+
 public class CeilingOfNum {
     public static void main(String[] args) {
     int[] arr = {2,3,5,7,9,14,16,18};
@@ -7,7 +9,6 @@ public class CeilingOfNum {
 }
 
     //this method will return the value of the index
-    //ceiling of a num means finding the smallest number that is greater than or equal to the target element
     static int ceiling(int[] arr, int target) {
         int start = 0;
         int end = arr.length - 1;
