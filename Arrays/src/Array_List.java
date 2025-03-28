@@ -33,8 +33,11 @@ public class Array_List {
         //replacing the 9th index element with 474
         list.set(9,474);
 
-
+        //this method of list.get(index) is used to retrieve an element at the specified index no
+        //it should always be paired with the print msg or stored in a variable for seeing the value otherwise it will get ignored
         System.out.println(list.get(3));
+
+        //prints the array list
         System.out.println(list);
     }
 }
