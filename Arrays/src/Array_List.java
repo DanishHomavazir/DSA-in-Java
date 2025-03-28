@@ -2,7 +2,7 @@ import java.util.ArrayList;
 
 public class Array_List {
     public static void main(String[] args) {
-        //creating an array list
+        //creating an array list of Integers by specifying it otherwise we can leave the 2nd <> empty too
         ArrayList<Integer> list = new ArrayList<Integer>(10);
         //adding elements to the array list
         list.add(255);
