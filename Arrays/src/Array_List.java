@@ -4,7 +4,7 @@ public class Array_List {
     public static void main(String[] args) {
         //creating an array list
         ArrayList<Integer> list = new ArrayList<Integer>(10);
-        //adding elememts to the array list
+        //adding elements to the array list
         list.add(255);
         list.add(654);
         list.add(56);
@@ -32,6 +32,9 @@ public class Array_List {
 
         //replacing the 9th index element with 474
         list.set(9,474);
+
+
+        System.out.println(list.get(3));
         System.out.println(list);
     }
 }
