@@ -1,3 +1,5 @@
+//This code explains the various methods that are present for printing the elements in a 2D array
+
 import java.util.Arrays;
 import java.util.Scanner;
 
