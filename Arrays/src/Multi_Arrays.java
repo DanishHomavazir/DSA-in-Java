@@ -9,7 +9,7 @@ public class Multi_Arrays {
 
         int[][] arr = new int[3][3];//creating a 2D array
 
-        //taking input in the array
+        //taking input in the 2D array
         for (int row = 0; row < arr.length; row++) {
             for (int col = 0; col < arr[row].length; col++) {
                 arr[row][col] = in.nextInt();
@@ -17,6 +17,7 @@ public class Multi_Arrays {
         }
 
         //1st method for printing the 2D array
+        //the basic method
         for (int row = 0 ; row<arr.length; row++){
             for (int col = 0 ; col< arr[row].length; col++){
                 System.out.print(arr[row][col] + " ");
