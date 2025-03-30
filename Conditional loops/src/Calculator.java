@@ -1,4 +1,4 @@
-//Program to perform calculation operations on the given two numbers
+//Program to perform calculation operations like +,-,*,/ on the given two numbers
 import java.util.Scanner;
 
 public class Calculator {
