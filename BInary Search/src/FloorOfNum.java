@@ -1,3 +1,5 @@
+//The floor of a num will be returned in this program
+
 public class FloorOfNum {
     public static void main(String[] args) {
         int[] arr = {2,3,5,7,9,14,16,18};
