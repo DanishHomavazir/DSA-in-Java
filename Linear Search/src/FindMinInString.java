@@ -1,4 +1,4 @@
-//Program to find the minimum value in the array using linear search
+//Program to find the minimum value in the array using linear search.
 
 public class FindMinInString {
     public static void main(String[] args) {
