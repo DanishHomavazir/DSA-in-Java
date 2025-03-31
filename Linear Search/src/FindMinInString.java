@@ -1,3 +1,5 @@
+//Program to find the minimum value in the array
+
 public class FindMinInString {
     public static void main(String[] args) {
         int[] arr = {19,12,7,3,14};
