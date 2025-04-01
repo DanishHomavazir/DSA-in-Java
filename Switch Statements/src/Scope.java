@@ -1,4 +1,4 @@
-
+//This code helps in understanding how the declaration and utilization of a variable in a scope works.
 
 public class Scope {
     public static void main(String[] args) {
