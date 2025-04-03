@@ -1,4 +1,4 @@
-
+//This code showcases on how to take an input using scanner class
 
 import java.util.Scanner;
 
