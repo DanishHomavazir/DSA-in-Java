@@ -1,3 +1,4 @@
+//This code demonstartes the different types of primmitve data types that are available
 
 public class Primitives {
     public static void main(String[] args) {
