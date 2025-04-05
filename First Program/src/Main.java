@@ -1,4 +1,4 @@
-
+//This code showcases how to print in java and using scanner class to take inputs
 
 import java.util.Scanner;
 
