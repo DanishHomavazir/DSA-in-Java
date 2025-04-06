@@ -1,4 +1,4 @@
-
+//This code showcases the use of searching a paticular target charecter in a string
 
 public class Seach_in_String {
     public static void main(String[] args) {
