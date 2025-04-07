@@ -8,7 +8,7 @@ public class Seach_in_String {
     }
 
     static boolean search(String str, char target){
-        if(str.length() == 0){
+        if(str.isEmpty()){
             return false;
         }
 
