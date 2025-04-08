@@ -1,4 +1,4 @@
-
+//This code showcases variable args
 
 import java.util.Arrays;
 
