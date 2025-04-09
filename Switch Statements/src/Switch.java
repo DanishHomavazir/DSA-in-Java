@@ -1,4 +1,4 @@
-
+//This code showcases the use of switch statements
 
 import java.util.Scanner;
 
