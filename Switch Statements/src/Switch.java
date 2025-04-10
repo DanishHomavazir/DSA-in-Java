@@ -20,7 +20,7 @@ public class Switch{
         System.out.println("Enter the no of the day of the week");
         int no = input.nextInt();
 
-        //Enhanced switch case statement
+//        Enhanced switch case statement
 //        switch(no){
 //            case 1,2,3,4,5 -> System.out.println("Weekday");
 //            case 6,7 -> System.out.println("Weekend");
