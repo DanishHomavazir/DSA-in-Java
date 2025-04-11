@@ -1,3 +1,4 @@
+//This code checks whether the input is in lowercase or uppercase
 
 import java.util.Scanner;
 
